@@ -69,5 +69,4 @@ This framework confirms that tree-based ensemble methods are highly suitable for
 * **Efficiency Metrics:** Introducing "Profit per Available Seat Mile" (CASM/RASM) to control for airline scale expansion.
 * **Scenario Analysis:** Developing stress-testing tools for extreme market conditions, such as sudden oil price spikes or recessionary demand collapses.
 
----
-*Generated based on uploaded code.ipynb and Report.docx.*
+
